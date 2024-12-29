@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Manjunath-28
+- 👋 Hi, I’m @Manjunath
 - 👀 I’m interested in VLSI DESIGN 
 
